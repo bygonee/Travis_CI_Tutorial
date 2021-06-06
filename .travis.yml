@@ -19,3 +19,7 @@ deploy:
     tags: true
     branch: tag
     repo: bygonee/Travis_CI_Tutorial
+
+notifications:
+ email:
+   - 418433519@qq.com
